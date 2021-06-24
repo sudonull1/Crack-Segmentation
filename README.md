@@ -1,2 +1,2 @@
 # Crack-Segmentation
-This repository contains codes and dataset for Crack Segmentation submitted under NTU-India Connect Project
+This ongoing project is part of NTU-India Connect Project Supervised by Prof. Tiong, Lee Kong, Robert.
